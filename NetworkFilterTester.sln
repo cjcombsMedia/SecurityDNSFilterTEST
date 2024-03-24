@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "NetworkFilterTester", "NetworkFilterTester.vbproj", "{34215DE4-FFA9-41D9-8D86-6B1D38055769}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34215DE4-FFA9-41D9-8D86-6B1D38055769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34215DE4-FFA9-41D9-8D86-6B1D38055769}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34215DE4-FFA9-41D9-8D86-6B1D38055769}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34215DE4-FFA9-41D9-8D86-6B1D38055769}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85710303-C750-4BDA-9D34-6570A3641EB6}
+	EndGlobalSection
+EndGlobal
